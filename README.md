@@ -4,6 +4,8 @@ Advanced WordPress Detecter / Checker, Exploiter, Bruteforcer, Information Gathe
 
 # HELP / ABOUT
 <br>A tool to help Red Teams / Hackers / Cyber-Security Expert scan and break into WordPress wesbsites.</br>
--<b>User-Agent Spoofed?: Yes</b>
--<b>HTTP Error Handling?: Yes</b>
--<b>Save Cracked Accounts?: Yes</b>
+<br>
+-<b>User-Agent Spoofed?</b> | Yes
+-<b>HTTP Error Handling?</b> | Yes
+-<b>Save Cracked Accounts?</b> | Yes
+</br>
