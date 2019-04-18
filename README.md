@@ -16,8 +16,8 @@ Advanced WordPress Detecter / Checker, Exploiter, Bruteforcer, Information Gathe
 
 # START-OFF
 <br>Simply run ***python3 wp-broker.py***, WP-Broker will ask for your target and move on!
-I highly recommend clearing the Database before doing anything else:
-Main Menu > 6:Database Menu > 2:Clear Database!</br>
+***I highly recommend clearing the Database before doing anything else:
+Main Menu > 6:Database Menu > 2:Clear Database!***</br>
 
 # SCREENSHOTS
 ![Target Menu](https://i.imgur.com/OnyXr0H.png)
