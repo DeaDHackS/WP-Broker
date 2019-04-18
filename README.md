@@ -3,8 +3,8 @@
 Advanced WordPress Detecter / Checker, Exploiter, Bruteforcer, Information Gather and Sensitive File / Directories Scanner.</br>
 
 # HELP / ABOUT
-<br>A tool to help Red Teams / Hackers / Cyber-Security Expert scan and break into WordPress wesbsites.</br>
-<br>2 wordlists are given for passwords and username which are located into WP-Broker/wordlists.</br>
+<br>A tool to help Red Teams / Hackers / Cyber-Security Expert scan and break into WordPress wesbsites,
+2 wordlists are given for passwords and username which are located into WP-Broker/wordlists.</br>
 - <b>Basic Wordlists Given?</b> | Yes
 - <b>User-Agent Spoofed?</b> | Yes
 - <b>HTTP Error Handling?</b> | Yes
