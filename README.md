@@ -17,3 +17,11 @@ Advanced WordPress Detecter / Checker, Exploiter, Bruteforcer, Information Gathe
 # HOW-TO-RUN
 <br>Simply run ***python3 wp-broker.py***, WP-Broker will ask for your target and move on!</br>
 
+# SCREENSHOTS
+![Target Menu](https://i.imgur.com/OnyXr0H.png)
+![Main Menu](https://i.imgur.com/2DAQDpi.png)
+![Bruteforce Menu](https://i.imgur.com/QKcGQx1.png)
+![Exploitation Menu](https://i.imgur.com/IuWWqD0.png)
+![Information Menu](https://i.imgur.com/rvOegir.png)
+![Scanner Menu](https://i.imgur.com/MaH2dnd.png)
+![Database Menu](https://i.imgur.com/oKtJKD4.png)
