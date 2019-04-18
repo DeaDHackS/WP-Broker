@@ -10,10 +10,10 @@ Advanced WordPress Detecter / Checker, Exploiter, Bruteforcer, Information Gathe
 - <b>HTTP Error Handling?</b> | Yes
 - <b>Save Cracked Accounts?</b> | Yes
 
-# DEPENDENCIES
+# EXTERNAL DEPENDENCIES
 - [Python 3.x.x](https://www.python.org/downloads/)<br>
 - [Urllib - Normally Included In Python3 Source Code](https://docs.python.org/3/library/urllib.html)<br>
 
 # HOW-TO-RUN
-<br>Simply run ***python3 wp-broker.py****</br>
+<br>Simply run ***python3 wp-broker.py***, WP-Broker will ask for your target and move on!</br>
 
